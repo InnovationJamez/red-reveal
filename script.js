@@ -23,7 +23,6 @@ window.onload = function () {
             imageData.data[i + 3] = Math.random() > 0.5 ? 0 : 255;
         }
 
-
         // 4. Paint the modified pixel data back onto the canvas
         ctx.putImageData(imageData, 0, 0);
     }
@@ -51,7 +50,6 @@ window.onload = function () {
 
         window.requestAnimationFrame(anim);
     }
-
 
 
     window.requestAnimationFrame(anim);

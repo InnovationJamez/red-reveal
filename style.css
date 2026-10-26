@@ -7,9 +7,9 @@ html {
 
 #moveText {
     position: absolute;
-    color: aqua;
+    color: hsl(189, 100%, 81%);
     font-family: 'Raleway Dots';
-    font-size: 50px;
+    font-size: 100px;
 }
 
 canvas {
