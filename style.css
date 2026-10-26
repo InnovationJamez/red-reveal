@@ -1,0 +1,19 @@
+body,
+html {
+    margin: 0px;
+    overflow: hidden;
+}
+
+
+#moveText {
+    position: absolute;
+    color: aqua;
+    font-family: 'Raleway Dots';
+    font-size: 50px;
+}
+
+canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
